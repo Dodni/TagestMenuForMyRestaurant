@@ -1,5 +1,5 @@
 # TagestMenuForMyRestaurant
-The program asks for the menu and gives back a pdf for fast printing.
+The program asks the menu and gives back a pdf for fast printing.
 
 I made this console program for my boss. She has a restaurant where I work.
 
